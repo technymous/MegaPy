@@ -2,5 +2,5 @@
 <h3>Country: Bangladesh</h3>
 <h3>Educational Background: Computer Science & Engineering</h3>
 
-<h4>MegaPy</h4>
+<h4>MegaPy is a</h4>
 <h4>Python Project</h4>
